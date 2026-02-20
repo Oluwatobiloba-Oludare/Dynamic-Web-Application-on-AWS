@@ -8,8 +8,8 @@
 export PROJECT_NAME='nest' # the name of your project 
 export ENVIRONMENT='dev' # the environment that the app will be deployed 
 export RECORD_NAME='www' # the sub-domain name
-export DOMAIN_NAME='aosnotes77.com' # the domain name 
-export S3_BUCKET_NAME='dev-aosnote-webfiles' # the name of the s3 bucket containing your application code
+export DOMAIN_NAME='oluwatobiloba.store' # the domain name 
+export S3_BUCKET_NAME='tobiloba-bucket-today' # the name of the s3 bucket containing your application code
 export SERVICE_PROVIDER_FILE_NAME='AppServiceProvider' # the name of the service provider file
 export APPLICATION_CODE_FILE_NAME='nest' # the name of the zip file containing your application code 
 export RDS_ENDPOINT='dev-nest-db.cu2idoemakwo.us-east-1.rds.amazonaws.com' # your rds endpoint.amazonaws.com
