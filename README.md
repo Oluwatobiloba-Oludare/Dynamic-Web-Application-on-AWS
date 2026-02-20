@@ -87,6 +87,8 @@ Core Infrastructure Components:
 
   ![alt text](Images/Webserverec2.png) 
 
+  ![alt text](Images/Deployment.png) 
+
 # 11. Create Target group
 
 ![alt text](Images/Targetgroup.png) 
