@@ -5,7 +5,7 @@
 # ================================================================
 
 # Set basic environment variables
-export S3_URI='s3://dev-aosnote-webfiles/project-2-assets/V1__nest.sql'
+export S3_URI='s3://tobiloba-bucket-today/project-2-assets/V1__nest.sql'
 export RDS_ENDPOINT='dev-nest-db.cu2idoemakwo.us-east-1.rds.amazonaws.com'
 export RDS_DB_NAME='applicationdb'
 export RDS_DB_USERNAME='admin'
